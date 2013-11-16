@@ -1,6 +1,7 @@
 {
     "docs"      : ["posts"],    
     "perpage"   : 10,
+    "domain_alias" :  ["a4.gitpress.org", "4.gitpress.org"],
     "types"     : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
