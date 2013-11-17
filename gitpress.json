@@ -1,6 +1,7 @@
 {
     "docs"      : ["posts"],    
     "perpage"   : 10,
+    "domain_alias" : ["i.a4.pm"],
     "types"     : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
