@@ -1,13 +1,5 @@
 {
     "docs"      : ["posts"],    
-    "perpage"   : 10,
     "domain_alias" : ["i.a4.pm"],
-    "types"     : {
-        "\\.(md||markdown)$"   : "markdown", 
-        "\\.(js||css||json)$"  : "code",
-        "\\.html?$"            : "html",
-        ".*"                   : "text"     
-    },
-    "title"  : "A4's Blog",
-    "comment"  : "on"
+    "title"  : "A4's Blog"
 }
