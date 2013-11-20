@@ -1,5 +1,6 @@
 {
-    "docs"      : ["posts"],    
+    "docs"      : ["posts"],
+    "template"  : "tactile",
     "domain_alias" : ["i.a4.pm"],
     "title"  : "A4's Blog"
 }
